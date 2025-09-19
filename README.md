@@ -22,7 +22,7 @@ I currently do not intend to add any more features, but if you want to add somet
 
 ## Credits
 
-[devkitPro](https://devkitpro.org/) for providing the necessary tools
+[devkitPro](https://devkitpro.org/) for providing the necessary tools<br>
 [u/KittyKingCrafting](https://www.reddit.com/user/KittyKingCrafting/) on Reddit for providing the [VS Code configuration](https://www.reddit.com/r/homebrew/comments/1n6jdpt/comment/ndc19ki/) for getting IntelliSense to work
 
 ## License
