@@ -20,6 +20,11 @@ The `convert_frames.py` script is used to create the required header `frames.h`.
 Feel free to open an Issue or Pull Request.
 I currently do not intend to add any more features, but if you want to add something, go ahead!
 
+## Credits
+
+[devkitPro](https://devkitpro.org/) for providing the necessary tools
+[u/KittyKingCrafting](https://www.reddit.com/user/KittyKingCrafting/) on Reddit for providing the [VS Code configuration](https://www.reddit.com/r/homebrew/comments/1n6jdpt/comment/ndc19ki/) for getting IntelliSense to work
+
 ## License
 
 MIT License
