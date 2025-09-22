@@ -22,6 +22,7 @@ I currently do not intend to add any more features, but if you want to add somet
 
 ## Credits
 
+[luigiman09](https://www.youtube.com/watch?v=9lNZ_Rnr7Jc) for the Bad Apple music video used in this project<br>
 [devkitPro](https://devkitpro.org/) for providing the necessary tools<br>
 [u/KittyKingCrafting](https://www.reddit.com/user/KittyKingCrafting/) on Reddit for providing the [VS Code configuration](https://www.reddit.com/r/homebrew/comments/1n6jdpt/comment/ndc19ki/) for getting IntelliSense to work
 
@@ -29,7 +30,7 @@ I currently do not intend to add any more features, but if you want to add somet
 
 MIT License
 
-Copyright (c) [2025] [Miaowz]
+Copyright (c) 2025 Miaowz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

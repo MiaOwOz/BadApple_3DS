@@ -42,7 +42,7 @@ int main(int argc, char* argv[])
 
 	printf("Bad Apple!! on the Nintendo %s3%sDS\n", CONSOLE_RED, CONSOLE_RESET);
 	printf("Developed by %sMiaowz%s\n", CONSOLE_BLUE, CONSOLE_RESET);
-	printf("https://github.com/MiaOwOz/BadApple_3DS.git\n\n");
+	printf("https://github.com/MiaOwOz/BadApple_3DS\n\n");
 	printf("Press %sSTART %sto begin.\n", CONSOLE_RED, CONSOLE_RESET);
 	printf("Press %sSELECT %sto exit.\n", CONSOLE_RED, CONSOLE_RESET);
 
